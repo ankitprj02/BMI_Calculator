@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="male_icon">male icon</string>
+    <string name="male">Male</string>
+    <string name="female_icon">Female Icon</string>
+    <string name="female">Female</string>
+    <string name="height">Height</string>
+    <string name="Height_Text">170</string>
+    <string name="cm">cm</string>
+    <string name="calculate_your_bmi">Calculate Your BMI</string>
+    <string name="weight">Weight</string>
+    <string name="weight_txt">55</string>
+    <string name="minus">minus</string>
+    <string name="plus">plus</string>
+    <string name="age">Age</string>
+    <string name="age_txt">22</string>
+    <string name="gender">Gender</string>
+    <string name="your_bmi_category_is">Your BMI Category Is</string>
+    <string name="recalculate_your_bmi">ReCalculate Your BMI</string>
+    <string name="condition_image">condition image</string>
+    <string name="BMI_txt">15</string>
+    <string name="developer_name">Developed By : \nANKIT PRAJAPATI</string>
+    <string name="share_btn">share_btn</string>
+</resources>
