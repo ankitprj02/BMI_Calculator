@@ -36,6 +36,7 @@
             android:layout_above="@+id/textmale"
             android:contentDescription="@string/male_icon"
             android:layout_centerInParent="true"
+            android:layout_marginTop="8dp"
             android:layout_marginBottom="20dp"
             android:src="@drawable/male" />
 
@@ -73,6 +74,7 @@
             android:layout_above="@+id/textfemale"
             android:layout_centerInParent="true"
             android:layout_marginBottom="20dp"
+            android:layout_marginTop="8dp"
             android:src="@drawable/female"
             android:contentDescription="@string/female_icon" />
 
@@ -150,7 +152,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp"
             android:layout_marginBottom="20dp"
-            android:progressTint="#FF4c4c">
+            android:progressTint="#3F51B5">
 
         </SeekBar>
 
